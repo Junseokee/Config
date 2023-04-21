@@ -7,6 +7,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Junseokee/Spring-Cloud-Config
+          uri: https://github.com/Junseokee/Config
           search-paths: config/**
           default-label: main
